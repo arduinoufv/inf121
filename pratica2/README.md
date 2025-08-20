@@ -1,5 +1,7 @@
 # Arquivos para Prática 2 de Estatística
 
+Ao terminar enviar o colab com o [link no Formulario Lab 2](https://docs.google.com/forms/d/e/1FAIpQLSdBf78xqMT2y-AERLZJhPpdvkNflkC33J_2BgPQlsxtqJdqiQ/viewform)
+
 Temos duas opções: 
 
 ## 1. Opção: Abrir na sua conta Google e baixar
