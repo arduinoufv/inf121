@@ -9,4 +9,5 @@
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
 * [Naive Bayes](https://drive.google.com/file/d/1zvGzGotfnMTv8cfPujOmI5T0LILC7gCH/view?usp=sharing)
+* [Arvores de Decisão](https://drive.google.com/file/d/1Deeb6BNN70C6Zg_o0roDV_e3pFtMPJCA/view?usp=sharing)
 
