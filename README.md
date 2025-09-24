@@ -7,7 +7,7 @@
 * [codigo da tarefa 4 da pratica 4](https://github.com/arduinoufv/inf121/blob/main/tarefa4.py)
 * **Pratica 5** [link para o Colab da aula](https://colab.research.google.com/drive/1WFi2U-qOJ0UfM96YABbFKSxmGqaOD8S5?usp=sharing) e para o [Formulário para envio: ](https://forms.gle/yXvjUyxUU119Hcjv9)
 * **Pratica 6** [Link para o Colab da aula](https://colab.research.google.com/drive/1J7kv8m_CjV5UNxgdiXiv7-SQgu_E2paP?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/aLRVXVf3DSgDyZjD6) + o Link do [Questionário para o teste 5 ](https://colab.research.google.com/drive/14OUZq0F8lDcoS1q2jYYO7GN-mNSqOvNU?usp=sharing),
-* **Prática 7**  [Link para o Colab da aula](), e para o [Formulário para envio: ](https://docs.google.com/forms/d/e/1FAIpQLSd6GJnkKbUThQkbZc3QvjXxbn0KJRv-suVuMdIQknv1GOkbNg/viewform)
+* **Prática 7**  [Link para o Colab da aula](https://colab.research.google.com/drive/1j17JXfO82DxW9w1TeB62HLpV5mvbzVJH?usp=sharing), e para o [Formulário para envio: ](https://docs.google.com/forms/d/e/1FAIpQLSd6GJnkKbUThQkbZc3QvjXxbn0KJRv-suVuMdIQknv1GOkbNg/viewform)
 
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
