@@ -14,4 +14,6 @@
 * [Naive Bayes](https://drive.google.com/file/d/1zvGzGotfnMTv8cfPujOmI5T0LILC7gCH/view?usp=sharing)
 * [Arvores de Decisão](https://drive.google.com/file/d/1Deeb6BNN70C6Zg_o0roDV_e3pFtMPJCA/view?usp=sharing)
 * [Random Forest e Boost](https://drive.google.com/file/d/1TI5EbrHglu5gGOg74uZ9CtWQrj4mktIy/view?usp=sharing)
+* [Kmeans, DBSCAN e outras técnicas de agrupamento](https://drive.google.com/file/d/1gdgOus5p0ZWbxStlscB7PsvG6y5Sq9P9/view?usp=drive_link)
+* [Redução de Dimensionalidade](https://drive.google.com/file/d/1LkpIV5Hw9kP7HVGTDlEWKV1bPSeYoAkV/view?usp=drive_link)
 
