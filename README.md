@@ -9,11 +9,14 @@
 * **Pratica 6** [Link para o Colab da aula](https://colab.research.google.com/drive/1J7kv8m_CjV5UNxgdiXiv7-SQgu_E2paP?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/aLRVXVf3DSgDyZjD6) + o Link do [Questionário para o teste 5 ](https://colab.research.google.com/drive/14OUZq0F8lDcoS1q2jYYO7GN-mNSqOvNU?usp=sharing),
 * **Prática 7**  [Link para o Colab da aula](https://colab.research.google.com/drive/1j17JXfO82DxW9w1TeB62HLpV5mvbzVJH?usp=sharing), e para o [Formulário para envio: ](https://docs.google.com/forms/d/e/1FAIpQLSd6GJnkKbUThQkbZc3QvjXxbn0KJRv-suVuMdIQknv1GOkbNg/viewform)
 
+* **Prática 8**  [Link para o Colab da aula](https://colab.research.google.com/drive/1ha6_GzO9w2MvdUKAJoj1TboJxzD_piT9?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/ssPPaYURuoTrTG1D7) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1wvJDA6Zu84t_R5QXEwDvxKVW-BNPGmmj?usp=sharing)
+
+
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
 * [Naive Bayes](https://drive.google.com/file/d/1zvGzGotfnMTv8cfPujOmI5T0LILC7gCH/view?usp=sharing)
 * [Arvores de Decisão](https://drive.google.com/file/d/1Deeb6BNN70C6Zg_o0roDV_e3pFtMPJCA/view?usp=sharing)
 * [Random Forest e Boost](https://drive.google.com/file/d/1TI5EbrHglu5gGOg74uZ9CtWQrj4mktIy/view?usp=sharing)
-* [Kmeans, DBSCAN e outras técnicas de agrupamento](https://drive.google.com/file/d/1gdgOus5p0ZWbxStlscB7PsvG6y5Sq9P9/view?usp=drive_link)
+* [Kmeans, DBSCAN e outras técnicas de agrupamento](https://drive.google.com/file/d/1gdgOus5p0ZWbxStlscB7PsvG6y5Sq9P9/view?usp=drive_link) e [video](https://www.youtube.com/watch?v=optcJpxDAYI&list=PLcvOyD_LMr6kBHgncYzQQrs3lMxVh9XZv&index=9)
 * [Redução de Dimensionalidade](https://drive.google.com/file/d/1LkpIV5Hw9kP7HVGTDlEWKV1bPSeYoAkV/view?usp=drive_link)
 
