@@ -14,6 +14,9 @@
 
 * **Prática 9**  [Link para o Colab da aula](https://colab.research.google.com/drive/1v0fl-M5bgveK9t_xGHM3oxhvzxhEr7qN?usp=sharing), e para o [Formulário para envio: ](https://docs.google.com/forms/d/e/1FAIpQLSeZ91Am4M02KrVOfzE6ZHpnFhOw1AbWmA-jjtsYA02W9rnb9g/viewform) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1F7jKkJeTBQ5XNwo246DYBFug1TvE4FZD?usp=sharing)
 
+* **Prática 10**  [Link para o Colab da aula](https://colab.research.google.com/drive/1sF9FbiHBICaGuIyrNaj8AAXW86_wQQi5?usp=sharing), e para o [Formulário para envio: ](https://docs.google.com/forms/d/e/1FAIpQLSfqxVLsOfRakvSvajPfgnrkMEEND3cHpxj9Jz44cjCmzQ45jg/viewform) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/13eTamzdkxwwjN-AMXzlWOgPOsE7cBcSk?usp=sharing)
+
+
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
 * [Naive Bayes](https://drive.google.com/file/d/1zvGzGotfnMTv8cfPujOmI5T0LILC7gCH/view?usp=sharing)
