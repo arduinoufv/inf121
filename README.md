@@ -19,7 +19,7 @@
 
 * **Prática 11**  [Link para o Colab da aula](https://colab.research.google.com/drive/10-6oUP5RavyoozMD2HVhMDw4oqwLqfly?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/VHY7LsjXyeVj6dG99) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/11NeFEG0NfvqK8HpAMGZAh_uNaEtjlG1i?usp=sharing)
 
-* **Prática 12 ** [Link para o Colab da aula (em construção)](), e para o [Formulário para envio: ]() + Questionário para treino [clique aqui](https://colab.research.google.com/drive/19mXo_kSylz85bZYusZaKb0CN_YFSGcqd?usp=sharing)
+* **Prática 12** [Link para o Colab da aula (em construção)](), e para o [Formulário para envio: ](https://forms.gle/x5SpmBtaEHohJTbe6) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/19mXo_kSylz85bZYusZaKb0CN_YFSGcqd?usp=sharing)
 
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
