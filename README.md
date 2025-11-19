@@ -21,6 +21,10 @@
 
 * **Prática 12** São 2 colabs [Link para o Colab  GPU](https://colab.research.google.com/drive/1EybxnAax6KLintHvdkgEVf1Uz8AvEIzq?usp=sharing) e para [colab CPU](https://colab.research.google.com/drive/15T7aO748a5iYax0yDYV9uhijcSnAWqB_?usp=sharing) e para o [Formulário para envio: ](https://forms.gle/x5SpmBtaEHohJTbe6) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/19mXo_kSylz85bZYusZaKb0CN_YFSGcqd?usp=sharing)
 
+* **Prática 13**  [Slides da aula](https://drive.google.com/file/d/1eaW8cGRaLSdC7Mwk0MMuXHxWIRMOyjN9/view) 
+* [Link para o Colab da aula - Ficara disponivel em breve](), e para o [Formulário para envio: ](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing)
+
+
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
 * [Naive Bayes](https://drive.google.com/file/d/1zvGzGotfnMTv8cfPujOmI5T0LILC7gCH/view?usp=sharing)
