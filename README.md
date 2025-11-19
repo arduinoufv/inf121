@@ -22,7 +22,7 @@
 * **Prática 12** São 2 colabs [Link para o Colab  GPU](https://colab.research.google.com/drive/1EybxnAax6KLintHvdkgEVf1Uz8AvEIzq?usp=sharing) e para [colab CPU](https://colab.research.google.com/drive/15T7aO748a5iYax0yDYV9uhijcSnAWqB_?usp=sharing) e para o [Formulário para envio: ](https://forms.gle/x5SpmBtaEHohJTbe6) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/19mXo_kSylz85bZYusZaKb0CN_YFSGcqd?usp=sharing)
 
 * **Prática 13**  [Slides da aula](https://drive.google.com/file/d/1eaW8cGRaLSdC7Mwk0MMuXHxWIRMOyjN9/view) 
-* [Link para o Colab da aula - Ficara disponivel em breve](), e para o [Formulário para envio: ](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing)
+* [Link para o Colab da aula](https://colab.research.google.com/drive/1hxcpsnUJOnIVmgOggzyRs9YW8458u62G?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/yiBn9BJZ7gbHmx56A) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing)
 
 
 # Slides de Aulas
