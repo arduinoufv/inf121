@@ -24,6 +24,9 @@
 * **Prática 13**  [Slides da aula](https://drive.google.com/file/d/1eaW8cGRaLSdC7Mwk0MMuXHxWIRMOyjN9/view) 
 * [Link para o Colab da aula](https://colab.research.google.com/drive/1hxcpsnUJOnIVmgOggzyRs9YW8458u62G?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/yiBn9BJZ7gbHmx56A) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1tH5wfZdpc48yIub-fdpsnNQe82MuNVXM?usp=sharing)
 
+* **pratica 14**  [Slides da aula](https://drive.google.com/file/d/17grL3GqclTGFWWPFg2ydEGeuiCHvVF1T/view?usp=drive_link) 
+* [Link para o Colab da aula](https://colab.research.google.com/drive/1JbCArehxiHPw7CBsj2ZfOgXG6eZxYTBW?usp=sharing), e para o [Formulário para envio: ](https://forms.gle/h4gPgPPhLHz4PSFSA) + Questionário para treino [clique aqui](https://colab.research.google.com/drive/1uVBIMbVPSYz7n8jrDWyEoqL2UVza0rJd?usp=sharing)
+
 
 # Slides de Aulas
 * [KNN](https://drive.google.com/file/d/15gWxUl3ucUzObX0uCs_D9RKNfV1Vuyrv/view?usp=sharing)
